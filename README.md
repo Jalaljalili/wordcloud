@@ -12,4 +12,4 @@ python -m pip install wordcloud
 pip install wordcloud
 ```
 # NOTICE
-    IF you're using Windows Enviroments,Microsoft Visual [C++]( https://visualstudio.microsoft.com/visual-cpp-build-tools/) 14.0 or greater is required 
+    IF you're using Windows Enviroments,Microsoft Visual [C++](https://visualstudio.microsoft.com/visual-cpp-build-tools/) 14.0 or greater is required 
